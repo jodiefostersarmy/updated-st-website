@@ -1,0 +1,39 @@
+{
+  "readmeUrl": "https://github.com/jodiefostersarmy",
+  "title": "Subterranean Simulations",
+  "name": "John Doe",
+  "ascii": "fucker",
+  "social": {
+    "github": "github",
+    "linkedin": "linkedin"
+  },
+  "email": "contact@email.com",
+  "ps1_hostname": "subterranean-simulations",
+  "ps1_username": "guest",
+  "repo": "https://github.com/Cveinnt/LiveTerm",
+  "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
+  "donate_urls": {
+    "paypal": "https://paypal.me/cveinnt",
+    "patreon": "https://patreon.com/cveinnt"
+  },
+  "colors": {
+    "light": {
+      "background": "#FFFFFF",
+      "foreground": "#FFFFFF",
+      "yellow": "#D79921",
+      "green": "#98971A",
+      "gray": "#7C6F64",
+      "blue": "#458588",
+      "red": "#CA2124"
+    },
+    "dark": {
+      "background": "#000000",
+      "foreground": "#E5E9F0",
+      "yellow": "#0047AB",
+      "orange": "#FFA500",
+      "white": "#FFF",
+      "gray": "#7C6F64",
+      "red": "#BF616A"
+    }
+  }
+}
